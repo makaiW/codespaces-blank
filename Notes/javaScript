@@ -1,0 +1,60 @@
+//java script and java are not same thing
+//javaScript is Single threaded meaning it will do one operation 1 at a time and read your code from top to down 
+//javaScript is an object oriented programming language meaning we are dealing with key value/pairs. Everything in javascript is an object
+//JavaScript can be run on the client side and server-side Node js is the runtimeenvirment for developing back-end/server-side javaScript logic
+
+
+var number = 0
+var user = 'makaiwhyte@boyslatin'
+var password = 'makailikesturltes'
+const
+
+let image1=''
+
+
+
+
+//float-Stores fractional numbers, containing one or more decimals. Sufficient for storing 6-7 decimal digits
+
+// string
+// are pieces of data bound together by quotation makailikesturltes
+" a person name"
+" general text "
+"symbols and even numbers"
+"these are all strings"
+"we can use double qutoes"
+"we can asl,o use single quotes"
+// integers are data types that represent numbers even decimal number
+12
+324413
+33525252
+
+//boolean represent data that has true or false 
+true
+1
+false
+0
+//variables are a comstruct that allows us to shore
+//vairables operate on a key/ value pair, meaning
+//we give a value a name to be associated with in 
+// the program memory
+// universial variable/data container
+var number = makai
+// a variable that will not change
+let loginname= 'makaiwhyte@boyslatin'
+// a variable that will not change stay consist 
+const password = 'makailikesturltes'
+const password =  'makailikesturltes'
+
+
+
+// syntax-how we write and format rules just like in english
+//it can be hard for the computer
+// to understand what we want it to do 
+"hello,my name is makai.today there is good weather. goodbye"
+
+
+// syntax rules for variable
+// step 1-you first have to declare that it is a variable 
+let name =
+var 
