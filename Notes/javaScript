@@ -58,3 +58,11 @@ const password =  'makailikesturltes'
 // step 1-you first have to declare that it is a variable 
 let name =
 var 
+
+
+'var- standard variable, can be used with out context.'
+'let - variabe that has temporary data.'
+'const - variabe that is constant. this data should not change.'
+
+
+we need 3 numbers to get to 4,000=2x2x
