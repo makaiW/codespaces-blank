@@ -4,7 +4,7 @@ let bankAccount = 230.00
  function  withdrawMusicSub()
 // if money exists-withdraw money for sub 
 console.log(bankAccount - musicScriptionPlan_1);
-//if no money - pause sub 
+//if no money - pause sub  
 
 //Assigment operators - applying a value to variable
 //MAIN TAKEAWAY : the single equal symbol/sign is used for assignment
@@ -47,3 +47,6 @@ var depositAmount = '400.00'
 var savingAccount = 400.00
 console.log( depositamount === savingaAccount)
 // exclainmation equal (!=): not equal 
+
+//Logical Operators
+// Logical operators are used to determine the logic between variables or values.
