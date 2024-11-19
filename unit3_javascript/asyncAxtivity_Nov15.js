@@ -23,7 +23,7 @@ console.log(msgReciever)
 // for student's learning JavaScript
     //# for student's learning JavaScript
     // 4. Identify and explain what each of these symbols are
-    - = 'The = sign is assign value to a varable'
+    - = 'The = sign is assign value to a varable' bbvm
     - &&  'logical operator'
    - || 'logical'
    -  == 'comparsion operator '
