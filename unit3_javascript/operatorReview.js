@@ -1,7 +1,7 @@
 //Artithmrthic operator - process that involve math.
 let musicSubscription_1 = 17.00
 let bankAccount = 230.00
- function  withdrawMusicSub()
+function withdrawMusicSub()
 // if money exists-withdraw money for sub 
 console.log(bankAccount - musicScriptionPlan_1);
 //if no money - pause sub  
@@ -10,8 +10,8 @@ console.log(bankAccount - musicScriptionPlan_1);
 //MAIN TAKEAWAY : the single equal symbol/sign is used for assignment
 
 var jeans = 200.00
-jeans *=.25
-var discount = (jeans *=25);
+jeans *= .25
+var discount = (jeans *= 25);
 
 
 
@@ -39,14 +39,40 @@ var b = 12
 // console.log(a==b)
 var userPassword = '1234'
 var dbPassword = '12323'
-console.log(userPassword== dbPassword)
+console.log(userPassword == dbPassword)
 
 
 // triple equal (===): equal value and equal type 
 var depositAmount = '400.00'
 var savingAccount = 400.00
-console.log( depositamount === savingaAccount)
+console.log(depositamount === savingAccount)
 // exclainmation equal (!=): not equal 
 
 //Logical Operators
 // Logical operators are used to determine the logic between variables or values.
+
+
+
+// logical
+
+function doMath() {
+    console.log(2 + 60);
+}
+ 
+
+function ageVerification(age){
+    if(age >= 21){
+      console.log("you may purchase this item.")
+      else { 
+      console.log("you are restricted from buying.")
+
+    }
+}
+ageVerification(25)
+
+
+function itemVerification()[
+    let Nestore = {'bike','gift card','cake'}
+    let northStore = {"candy","bike","tv"}
+    
+]

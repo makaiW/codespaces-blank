@@ -1,7 +1,7 @@
 //what is function?
 // Is a set of instructions that perform a specific task or a job
 
-//There two variation of function:
+//There 2 variation of function:
 //Built in function: these function instructions that
 // are alrready in the programmin language and all you need to do 
 //is pass it data
@@ -21,4 +21,16 @@ Function examplefunction(){
     console.log ("step 3.");
 }
 //call function
-examplefunction();
+//examplefunction();
+let accountBalance = 100
+
+const
+
+
+
+function depositMoney(x){
+    let  accountBalance = 100
+    const depositfee=.5
+    console.log('money has been added successfully')
+    console.log(accountbalance++)
+}
