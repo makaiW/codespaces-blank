@@ -16,16 +16,28 @@
 //timeOfday();
 
 
-function Grades(grade) {
-    if (grade == "100-90") {
+function Grades(Grades) {
+    if (Grades == "100-90") {
+    
         console.log("this grade is a A");
-    } else if (grade == "89-80")
+    } else if (Grades == "89-80")
         console.log("This grade is a B");
-    else if (grade == "79-70") {
+    else if (Grades == "79-70") {
         console.log("This grade is a C");
-    } else if (grade == "69-60")
+    } else if (Grades== "69-60")
         console.log("This grade is a D");
-  else if (grade == "59-0")
+  else if (Grades == "59-0")
     console.log("This grade is a F")
 }
- Grades(98);
+ Grades();
+
+// nested conditions are functions inside of function this gives us more power
+// to make ujique outcomes
+
+ function passwordRetrieval(email,password,)
+ if(email =="ian@gmail.com"){
+    console.log("correct");
+    console.log("please provide a password")
+ } else{
+    co
+ }
