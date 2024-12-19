@@ -40,7 +40,7 @@ function movieTickets(tickets) {
       
 
 }
-tickts();
+movieTickets();
 
 
 
@@ -50,3 +50,34 @@ tickts();
 // superShopper should recieve a 10% discount on their items
 // megaShopper should recieve a 15% discount on their items
 // ultraShopper should receive a 20% discount on their items
+
+
+
+//#determine the price of the item base om the user memendership
+function discountFuncation(membership){
+console.log("testing,funcation works");
+if (membership === "superShopper"){
+    console.log("you are a super shopper,here is a 10 percent discount.")
+         var discountAmount = itemPrice *0.1;
+         console.log(discountAmount);
+         var total = itemPrice - discountAmount;
+         console.log(total);
+
+} else if(membership == "megashopper")
+console.log("you are a mega shopper,here is a 15 percent discount.");
+ var discountAmount = itemPrice *0.15;
+         console.log(discountAmount);
+         var total = itemPrice - discountAmount;
+         console.log(total);
+
+}    else if(membership === "ultra shopper")
+    console.log("you are a ultra  shopper,here is a 20 percent discount.");
+else {
+    console.log("error,sorry this membership doesnt exist");
+}
+ var discountAmount = itemPrice *0.2;
+console.log(discountAmount);
+var total = itemPrice - discountAmount;
+console.log(total);
+
+discountFuncation();
