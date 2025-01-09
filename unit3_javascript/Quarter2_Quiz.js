@@ -18,7 +18,7 @@ function federalIncome(taxes ){
              var total = taxed - federalIncome;
              console.log(total);
     
-    } else if(taxes == "12001.00 andf 50000.00 ")
+    } else if(taxes == "12001.00 and 50000.00 ")
     console.log("they will be taxed 12%, plus an additional 3% for the state.");
      var  federalIncome = taxed *0.12;
              console.log(federalIncome);
