@@ -1,5 +1,6 @@
 //1.
-
+ var reversed_CampingSupplies= campingSupplies.reverse()
+ console.log(reversed_CampingSupplies)
 
 
 
@@ -7,12 +8,13 @@
 
 
 //2.
-var campingSupplies = ['tent','sleeping bag','flash light','camping knife']
+var reverse_CampingSupplies = ['tent','sleeping bag','flash light','camping knife']
 campingSupplies.push('extra clothes')
-console.log(campingSupplies)
+console.log(reverse_CampingSupplies)
 
 
-//3
+//3 
+var campingFood = ['marshallow','gramcracker','choclate','water','campfire']
 
 
 
