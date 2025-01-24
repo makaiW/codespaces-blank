@@ -10,13 +10,36 @@
 // as a specific condition is true
 
 
-function basicLoop() {
-    var x = 2
-    while (x > 1) {
-        console.log('this code will repeat forever')
+//function basicLoop() {
+// var value = 0;
+//while (value < 10) {
+//      console.log("ERROR");
+//  } value += 5
+//}
+
+//basicLoop()
+
+
+//function basicLoop() {
+//  var value = makai;
+// while (value == makai) {
+//console.log("ERROR");
+// } value += 5
+//}
+
+//basicLoop()
+
+
+function tragiclight() {
+    var lightcolors = ["red", "yellow", "green"];
+    var timer = 0;
+    while (timer < 60) {
+        console.log("this light is " + lightcolors[0]);
+        timer += 1;
+        if (timer == 10) {
+            console.log("light is about to change");
+        }
+
     }
 }
-
-
-
-
+tragiclight()
